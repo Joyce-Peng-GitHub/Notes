@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "32a634d716e1cc0f",
+        "id": "a21229ea93e8cbd0",
         "type": "tabs",
         "children": [
           {
-            "id": "9fba4179853e3509",
+            "id": "ebcd07c6f9e0bbee",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,10 +147,37 @@
   "right": {
     "id": "84c69ed6e74b97ea",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "00473c79554057d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e918a4d4fb2366e5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "72d68499edc179a1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,17 +188,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9fba4179853e3509",
+  "active": "ebcd07c6f9e0bbee",
   "lastOpenFiles": [
     "大一上/英语/Intercultural English Communication/ICEC.md",
+    "大一上/英语/Intercultural English Communication/Cultural Iceberg.png",
+    "大一上/英语/Intercultural English Communication/ICEC.pdf",
     "大一上/思想道德与法治/思想道德与法治.md",
     "大一上/思想道德与法治",
-    "Universal Cultural and Personal.jpg",
-    "Cultural Iceberg.png",
-    "大一上/英语/Intercultural English Communication/ICEC.pdf",
+    "大一上/英语/Intercultural English Communication/Universal Cultural and Personal.jpg",
     "Cultural Iceberg 1.png",
     "Cultural Iceberg.jpg",
     "Untitled.md",
