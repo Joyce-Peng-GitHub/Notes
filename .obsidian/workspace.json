@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大一上/思想道德与法治/思想道德与法治.md",
-                "mode": "source",
+                "file": "大一上/英语/Intercultural English Communication/ICEC.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "思想道德与法治"
+              "title": "ICEC"
             }
           }
         ],
@@ -86,10 +86,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大一上/思想道德与法治/思想道德与法治.md"
+                "file": "大一上/英语/Intercultural English Communication/ICEC.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 思想道德与法治"
+              "title": "Outline of ICEC"
             }
           },
           {
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 249.5
   },
   "right": {
     "id": "84c69ed6e74b97ea",

@@ -100,7 +100,7 @@ Avoiding ethnocentrism does not mean that one can never make judgements about an
 >
 > - **Moral Problems**: It can make people think that any action is okay if it's part of another culture, even if it harms others.
 > - **Universal Values**: It ignores important values, like honesty, fairness, respect for others, kindness, responsibility, etc. that should apply to everyone, regardless of the culture.
-> - **Blocks Change**: It might stop people from fixing harmful traditions within a culture.
+> - **Blocking Changes**: It might stop people from fixing harmful traditions within a culture.
 
 > Patriotism is when you love and support your country, you still respect other countries and their ways of life. It's about **pride in your own nation without thinking less of others**.
 >
@@ -262,7 +262,7 @@ Don't hedge too much!
 | Identity is based on individual qualities |       Identity is about one's role in the group       |
 |            What you DO matters            |                  Who you ARE matters                  |
 
-to *pull one's own weight*: to work as hard as everyone else who is involved in the same task or activity.
+To *pull one's own weight*: to work as hard as everyone else who is involved in the same task or activity.
 
 *There is strength in numbers*.
 
@@ -284,7 +284,7 @@ There are two major contributors to internal diversity.
 
 *Precedence* refers to the condition of being considered more important than someone or something else, and therefore coming or being delt with first.
 
-*Take precedence (over sth)*.
+To *take precedence (over sth)*.
 
 *Value trumping* is when one value is stronger or more important than others, or, in other words, when people **choose** to follow one value when there is a conflict between different values. Value trumping is the recognition that in **specific contexts**, certain sets of values take precedence over others.
 
@@ -302,12 +302,12 @@ There are two major contributors to internal diversity.
 
 #### Building Trust
 
-| Task Oriented                                                | Relationship Oriented                                        |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| People **separate** personal and professional life.          | People **mix** personal and professional life.               |
-| Personal connection isn't as important in professional relationships. | Personal relationships are important in professional settings. |
-| Focusing on tasks and working efficiently shows professionalism and builds trust. | Investing in relationships and building a personal connection makes someone seem more trustworthy. |
-| Trust is built on ***head trust*** or ***cognitive trust***, which is based on qualifications, work ethic, honesty and achievements. | Trust is build on both **qualifications** and **emotional connection**. |
+| Task Oriented                                                                                                                        | Relationship Oriented                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
+| People **separate** personal and professional life.                                                                                  | People **mix** personal and professional life.                                                     |
+| Personal connection isn't as important in professional relationships.                                                                | Personal relationships are important in professional settings.                                     |
+| Focusing on tasks and working efficiently shows professionalism and builds trust.                                                    | Investing in relationships and building a personal connection makes someone seem more trustworthy. |
+| Trust is built on ***head trust*** or ***cognitive trust***, which is based on qualifications, work ethic, honesty and achievements. | Trust is build on both **qualifications** and **emotional connection**.                            |
 
 ### Monochronic and Polychronic
 
@@ -519,7 +519,7 @@ Taboo topics are not the same in every culture.
 
 ### Direct and Indirect Styles of Giving Negative Feedback
 
-DEGREE OF DIRECTNESS
+**DEGREE OF DIRECTNESS**
 
 |              Direct               |                Indirect                |
 | :-------------------------------: | :------------------------------------: |
@@ -571,7 +571,7 @@ Low-context cultures are **typically** direct in communication. High-context cul
 | :---------------------------------------: | :----------------------------------------: |
 |           Honesty is essential            |            Harmony is essential            |
 |          Truth should be sought           |   Truth should be adjusted as necessary    |
-| The Truth is more important than feelings | Feelings are more important than the truth |
+| The truth is more important than feelings | Feelings are more important than the truth |
 |   "Face" is individuals' responsibility   |    "Face" is everyone's responsibility     |
 |         Goal: getting/giving info         |    Goal: preserving/strengthening bonds    |
 |       Have fewer ways to lose face        |        Have many ways to lose face         |
@@ -580,7 +580,7 @@ Low-context cultures are **typically** direct in communication. High-context cul
 
 ### Hierarchical and Egalitarian Cultures
 
-To *subject to criticism*: to be the recipient of outside criticism.
+To *be subject to criticism*: to be the recipient of outside criticism.
 
 To *be one of the guys*: to be accepted by a social group; to act or be the same as the other members.
 
@@ -610,7 +610,9 @@ To *pull rank*: to take advantage of one's authority and seniority.
   - Each person is treated by others according to their role.
   - How you treat someone "below" you in rank might look dramatically different than how you treat someone "above" you in rank.
 
-Egalitarian and hierarchical cultures represent different approaches to organizing and structuring societies or groups. **Neither approach inherently values individuals more or less**; they are simply different frameworks. Both cultures recognize the importance and value of individuals within their respective frameworks. Egalitarian cultures tend to value creating equal opportunities for individuals to contribute. In hierarchical cultures, individuals may be valued for their specific contributions within their roles.
+Egalitarian and hierarchical cultures represent different approaches to organizing and structuring societies or groups. **Neither approach inherently values individuals more or less**; they are simply different frameworks. Both cultures recognize the importance and value of individuals within their respective frameworks.
+- Egalitarian cultures tend to value creating equal opportunities for individuals to contribute.
+- In hierarchical cultures, individuals may be valued for their specific contributions within their roles.
 
 | Key Features                            | Egalitarian                                                                                                                                                                                                                                                                | Hierarchical                                                                                                                                                                                |
 | --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -642,17 +644,17 @@ Egalitarian and hierarchical cultures represent different approaches to organizi
 
 ### B. Universalism and Particularism
 
-To *be hard on* sb.: to be critical or even to enact a punishment on sb., esp. if you have high standards for his behavior.
+To *be hard on sb.*: to be critical or even to enact a punishment on sb., esp. if you have high standards for his behavior.
 
 To *show sb. who's boss*: to demonstrate authority or dominance over sb. so that it is clearly recognized.
 
-To *make an exception **for*** sb..
+To *make an exception **for** sb.*.
 
-To *make an exception **to*** sth. (a rule, policy, etc.).
+To *make an exception **to** sth.* (a rule, policy, etc.).
 
-To *<u>assign weight to/place weight on</u>* sth.: to consider sth. important or give it significance.
+To *<u>assign weight to/place weight on</u> sth.*: to consider sth. important or give it significance.
 
-To *have tolerance for* sth.
+To *have tolerance for sth.*.
 
 *On sb's behalf*.
 
@@ -748,7 +750,7 @@ Cultural Orientations
 
 - Direct / Indirect
   - Handling Conflict
-  - 'Negative Feedback
+  - Negative Feedback
 - Hierarchical / Egalitarian
 - Universalism / Particularism
 - Collectivism / Individualism
