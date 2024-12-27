@@ -88,7 +88,7 @@ Subcultures influence our identities, values and behavior as well as our respons
 
 ## Week 3
 
-### Ethonocentrism
+### Ethnocentrism
 
 We often think the cultural responses that are more familiar to us are "best", "correct" or "superior", and that are unfamiliar to us are "strange", "incorrect" or "inferior".
 
@@ -612,13 +612,13 @@ To *pull rank*: to take advantage of one's authority and seniority.
 
 Egalitarian and hierarchical cultures represent different approaches to organizing and structuring societies or groups. **Neither approach inherently values individuals more or less**; they are simply different frameworks. Both cultures recognize the importance and value of individuals within their respective frameworks. Egalitarian cultures tend to value creating equal opportunities for individuals to contribute. In hierarchical cultures, individuals may be valued for their specific contributions within their roles.
 
-| Key Features                            | Egalitarian                                                  | Hierarchical                                                 |
-| --------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Role and Responsibility Distinction** | Not as clear                                                 | Clear                                                        |
-| **Power Structure**                     | Emphasizes equality and minimizes power distance             | Emphasizes structured levels of authority and respect for status |
-| **Value Judgement**                     | Importance of rank and seniority<br>Respect for authority highly valued | Emphasis on equal treatment regardless of status<br>Value placed on collaboration and teamwork |
+| Key Features                            | Egalitarian                                                                                                                                                                                                                                                                | Hierarchical                                                                                                                                                                                |
+| --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Role and Responsibility Distinction** | Not as clear                                                                                                                                                                                                                                                               | Clear                                                                                                                                                                                       |
+| **Power Structure**                     | Emphasizes equality and minimizes power distance                                                                                                                                                                                                                           | Emphasizes structured levels of authority and respect for status                                                                                                                            |
+| **Value Judgement**                     | Emphasis on equal treatment regardless of status<br>Value placed on collaboration and teamwork                                                                                                                                                                             | Importance of rank and seniority<br>Respect for authority highly valued                                                                                                                     |
 | **Communication**                       | **Informal, open and encourages feed back from all levels**<br/>Feel free and be allowed to contact anyone in the office. The rank doesn't matter.<br/>Although you might go through someone else, you could talk to someone with a much higher or lower in rank than you. | **Formal, structured, and often top-down**<br/>Should probably follow the acceptable structure<br/>One wouldn't bypass a rank. You might convey your message to someone at the middle rank. |
-| **Leadership Differences**              | Leaders often consult team members before deciding           | Leaders make decisions with less input from lower levels.    |
+| **Leadership Differences**              | Leaders often consult team members before deciding                                                                                                                                                                                                                         | Leaders make decisions with less input from lower levels.                                                                                                                                   |
 
 
 
