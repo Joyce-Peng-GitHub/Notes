@@ -49,8 +49,7 @@
               "title": "思想道德与法治"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,10 +115,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大一上/思想道德与法治/思想道德与法治重点.md"
+                "file": "大一上/思想道德与法治/课前演讲选题.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 思想道德与法治重点"
+              "title": "Outline of 课前演讲选题"
             }
           },
           {
@@ -225,11 +224,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "95e00208cb07aab3",
+  "active": "4930c134d0abeff2",
   "lastOpenFiles": [
-    "大一上/思想道德与法治/课前演讲选题.md",
-    "大一上/思想道德与法治/思想道德与法治重点.md",
     "大一上/思想道德与法治/思想道德与法治.md",
+    "大一上/思想道德与法治/思想道德与法治重点.md",
+    "大一上/思想道德与法治/课前演讲选题.md",
     "大一上/思想道德与法治/TOC.md",
     "大一上/思想道德与法治/思想道德与法治重点.pdf",
     "大一上/思想道德与法治/课前演讲选题.pdf",
