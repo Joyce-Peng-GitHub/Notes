@@ -28,20 +28,13 @@
               "type": "markdown",
               "state": {
                 "file": "大一上/思想道德与法治/思想道德与法治重点.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "思想道德与法治重点"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "4e2734c6fdddabc3",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "5a2289504ec7224f",
             "type": "leaf",
@@ -49,14 +42,15 @@
               "type": "markdown",
               "state": {
                 "file": "大一上/思想道德与法治/思想道德与法治.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "思想道德与法治"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,12 +223,14 @@
       "random-note:Open random note": false
     }
   },
-  "active": "41d2919d8ff94ee8",
+  "active": "95e00208cb07aab3",
   "lastOpenFiles": [
-    "大一上/思想道德与法治/课前演讲选题.md",
-    "大一上/思想道德与法治/思想道德与法治重点.md",
-    "大一上/思想道德与法治/思想道德与法治重点 (1).md",
     "大一上/思想道德与法治/思想道德与法治.md",
+    "大一上/思想道德与法治/思想道德与法治重点.md",
+    "大一上/思想道德与法治/思想道德与法治重点.pdf",
+    "大一上/思想道德与法治/课前演讲选题.md",
+    "大一上/思想道德与法治/课前演讲选题.pdf",
+    "大一上/思想道德与法治/思想道德与法治重点 (1).md",
     "Untitled.md",
     "大一上/思想道德与法治/思想道德与法治.pdf",
     "大一上/英语/Intercultural English Communication/ICEC.md",
@@ -249,7 +245,6 @@
     "Welcome.md",
     "大一上/英语/Intercultural English Communication",
     "大一上/英语",
-    "Untitled",
-    "大一上"
+    "Untitled"
   ]
 }
