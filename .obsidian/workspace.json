@@ -4,49 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "629548093a77fef8",
+        "id": "f4183c90e737eced",
         "type": "tabs",
         "children": [
           {
-            "id": "4930c134d0abeff2",
+            "id": "542b10028b917cf2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大一上/思想道德与法治/课前演讲选题.md",
+                "file": "大一下/中国近现代史纲要/中国近现代史纲要（2023年版）.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "课前演讲选题"
+              "title": "中国近现代史纲要（2023年版）"
             }
           },
           {
-            "id": "95e00208cb07aab3",
+            "id": "235785538dd5bf8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大一上/思想道德与法治/思想道德与法治重点.md",
-                "mode": "preview",
+                "file": "大一上/乱七八糟/组织委员述职报告.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "思想道德与法治重点"
+              "title": "组织委员述职报告"
             }
           },
           {
-            "id": "5a2289504ec7224f",
+            "id": "7cedc9d21d912415",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大一上/思想道德与法治/思想道德与法治.md",
-                "mode": "preview",
+                "file": "大一上/竞赛/2025_01_05/静态区间众数.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "思想道德与法治"
+              "title": "静态区间众数"
+            }
+          },
+          {
+            "id": "d302d6a6dcc97dd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大一上/竞赛/2025_01_05/数列分块入门 9 题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数列分块入门 9 题"
             }
           }
         ]
@@ -115,10 +129,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大一上/思想道德与法治/课前演讲选题.md"
+                "file": "大一下/中国近现代史纲要/中国近现代史纲要（2023年版）.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 课前演讲选题"
+              "title": "Outline of 中国近现代史纲要（2023年版）"
             }
           },
           {
@@ -224,29 +238,45 @@
       "random-note:Open random note": false
     }
   },
-  "active": "4930c134d0abeff2",
+  "active": "41d2919d8ff94ee8",
   "lastOpenFiles": [
+    "大一上/竞赛/2025_01_05/P4145.md",
+    "大一上/乱七八糟/组织委员述职报告.md",
+    "大一下/中国近现代史纲要/中国近现代史纲要（2023年版）.md",
+    "大一上/竞赛/2025_01_05/数列分块入门 9 题.md",
+    "大一上/竞赛/2025_01_05/Untitled.md",
+    "大一上/竞赛/2025_01_05/中国近现代史纲要.md",
+    "大一下/中国近现代史纲要",
+    "Untitled",
+    "大一下",
+    "test.md",
+    "大一上/竞赛/2025_01_05/静态区间逆序对.md",
+    "大一上/竞赛/2025_01_05/静态区间众数.md",
+    "大一上/竞赛/2025_01_05/P8360.md",
+    "大一上/竞赛/2025_01_05/P7446.md",
+    "大一上/竞赛/2025_01_05/P4135.md",
+    "大一上/竞赛/2025_01_05/P3793.md",
+    "大一上/竞赛/2025_01_05/P3396.md",
+    "大一上/竞赛/2025_01_05/P3203.md",
+    "大一上/竞赛/2025_01_05/CF1422F.md",
+    "大一上/竞赛/2025_01_05/CF797E.md",
+    "大一上/竞赛/2025_01_05",
+    "大一上/竞赛",
+    "大一上/乱七八糟/组织委员述职报告~E5BEB.tmp",
+    "大一上/乱七八糟/组织委员述职报告~E342F.tmp",
+    "大一上/乱七八糟/组织委员述职报告~DFC85.tmp",
+    "大一上/乱七八糟/组织委员述职报告~DAF5F.tmp",
+    "大一上/乱七八糟/~$委员述职报告.docx",
+    "大一上/思想道德与法治/课前演讲选题.md",
     "大一上/思想道德与法治/思想道德与法治.md",
     "大一上/思想道德与法治/思想道德与法治重点.md",
-    "大一上/思想道德与法治/课前演讲选题.md",
     "大一上/思想道德与法治/TOC.md",
-    "大一上/思想道德与法治/思想道德与法治重点.pdf",
-    "大一上/思想道德与法治/课前演讲选题.pdf",
     "大一上/思想道德与法治/思想道德与法治重点 (1).md",
-    "Untitled.md",
-    "大一上/思想道德与法治/思想道德与法治.pdf",
     "大一上/英语/Intercultural English Communication/ICEC.md",
-    "大一上/思想道德与法治/~$道德与法治（2023年版）扫描OCR.docx",
-    "大一上/思想道德与法治/思想道德与法治（2023年版）扫描OCR.docx",
     "大一上/英语/Intercultural English Communication/Cultural Iceberg.png",
-    "大一上/英语/Intercultural English Communication/ICEC.pdf",
-    "大一上/思想道德与法治",
     "大一上/英语/Intercultural English Communication/Universal Cultural and Personal.jpg",
     "Cultural Iceberg 1.png",
     "Cultural Iceberg.jpg",
-    "Welcome.md",
-    "大一上/英语/Intercultural English Communication",
-    "大一上/英语",
-    "Untitled"
+    "Welcome.md"
   ]
 }
